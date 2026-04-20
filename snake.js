@@ -47,4 +47,4 @@ function gameLoop(){
 
 }
 
-setInterval(gameLoop,120);
+setInterval(gameLoop,150);
